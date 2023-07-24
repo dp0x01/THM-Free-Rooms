@@ -2,8 +2,8 @@
 Publicly available rooms to solve as well as practice on THM. 
 
 
-- Intro Rooms:
-```
+Intro Rooms:
+  
     https://tryhackme.com/room/hello
     https://tryhackme.com/room/howtousetryhackme
     https://tryhackme.com/room/gettingstarted
@@ -13,9 +13,9 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/beginnerpathintro
     https://tryhackme.com/room/startingoutincybersec
     https://tryhackme.com/room/introtoresearch
-```
 
-- Basics Rooms:
+
+Basics Rooms:
 
     https://tryhackme.com/room/linuxmodules
     https://tryhackme.com/room/linuxfundamentalspart1
@@ -34,7 +34,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/ultratech1
 
 
-- Recon:
+Recon:
 
     https://tryhackme.com/room/passiverecon
     https://tryhackme.com/room/activerecon
@@ -47,7 +47,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/sakura
 
 
-- Scripting:
+Scripting:
 
     https://tryhackme.com/room/pythonbasics
     https://tryhackme.com/room/pythonplayground
@@ -59,7 +59,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/yara
 
 
-- Networking:
+Networking:
 
     https://tryhackme.com/room/introtonetworking
     https://tryhackme.com/room/whatisnetworking
@@ -70,7 +70,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/rfirmware
 
 
-- Tooling:
+Tooling:
 
     https://tryhackme.com/room/metasploitintro
     https://tryhackme.com/room/rpmetasploit
@@ -91,7 +91,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/burpsuiterepeater
 
 
-- Crypto & Hashes:
+Crypto & Hashes:
 
     https://tryhackme.com/room/cryptographyfordummies
     https://tryhackme.com/room/crackthehash
@@ -101,7 +101,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/bruteit
 
 
-- Web:
+Web:
 
     https://tryhackme.com/room/webfundamentals
     https://tryhackme.com/room/webappsec101
@@ -124,12 +124,12 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/sqlinjectionlm
 
 
-- Android:
+Android:
 
     https://tryhackme.com/room/androidhacking101
 
 
-- Forensics:
+Forensics:
 
     https://tryhackme.com/room/linuxserverforensics
     https://tryhackme.com/room/forensics
@@ -137,12 +137,12 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/bpvolatility
     https://tryhackme.com/room/autopsy2ze0
 
-- Wifi Hacking:
+Wifi Hacking:
 
     https://tryhackme.com/room/wifihacking101
 
 
-- Reverse Engineering:
+Reverse Engineering:
 
     https://tryhackme.com/room/introtox8664
     https://tryhackme.com/room/win64assembly
@@ -156,7 +156,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/reloaded
 
 
-- Malware Analysis
+Malware Analysis
 
     https://tryhackme.com/room/historyofmalware
     https://tryhackme.com/room/malmalintroductory
@@ -167,7 +167,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/dunklematerieptxc9
 
 
-- Steganography
+Steganography
 
     https://tryhackme.com/room/ccstego
     https://tryhackme.com/room/cicada3301vol1
@@ -177,7 +177,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/unstabletwin
 
 
-- PrivEsc:
+PrivEsc:
 
     https://tryhackme.com/room/linprivesc
     https://tryhackme.com/room/linuxprivesc
@@ -187,7 +187,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/linuxagency
 
 
-- Windows:
+Windows:
 
     https://tryhackme.com/room/windowsfundamentals1xbx
     https://tryhackme.com/room/windowsfundamentals2x0x
@@ -201,7 +201,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/blue
 
 
-- Active Directory:
+Active Directory:
 
     https://tryhackme.com/room/attacktivedirectory
     https://tryhackme.com/room/postexploit
@@ -210,7 +210,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/raz0rblack
 
 
-- PCAP Analysis
+PCAP Analysis
 
     https://tryhackme.com/room/h4cked
     https://tryhackme.com/room/c2carnage
@@ -218,7 +218,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/overpass2hacked
 
 
-- BufferOverflow:
+BufferOverflow:
 
     https://tryhackme.com/room/bufferoverflowprep
     https://tryhackme.com/room/gatekeeper
@@ -226,7 +226,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/introtopwntools
 
 
-- Easy CTF:
+Easy CTF:
 
     https://tryhackme.com/room/overlayfs
     https://tryhackme.com/room/gamingserver
@@ -288,7 +288,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/mustacchio
 
 
-- Medium CTF:
+Medium CTF:
 
     https://tryhackme.com/room/road
     https://tryhackme.com/room/mrrobot
@@ -365,7 +365,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/cybercrafted
 
 
-- Hard CTF:
+Hard CTF:
 
     https://tryhackme.com/room/m4tr1xexitdenied
     https://tryhackme.com/room/motunui
@@ -406,7 +406,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/vulnnetdotjar
 
 
-- Special Events:
+Special Events:
 
     https://tryhackme.com/room/hackerofthehill
     https://tryhackme.com/room/25daysofchristmas
@@ -418,7 +418,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/tickets2
 
 
-- Misc:
+Misc:
 
     https://tryhackme.com/room/solar
     https://tryhackme.com/room/django
