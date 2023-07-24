@@ -3,7 +3,7 @@ Publicly available rooms to solve as well as practice on THM.
 
 
 - Intro Rooms:
-
+```
     https://tryhackme.com/room/hello
     https://tryhackme.com/room/howtousetryhackme
     https://tryhackme.com/room/gettingstarted
@@ -13,7 +13,7 @@ Publicly available rooms to solve as well as practice on THM.
     https://tryhackme.com/room/beginnerpathintro
     https://tryhackme.com/room/startingoutincybersec
     https://tryhackme.com/room/introtoresearch
-
+```
 
 - Basics Rooms:
 
