@@ -1,10 +1,8 @@
 # THM-Free-Rooms
 Publicly available rooms to solve as well as practice on THM. 
 
-# THM-Free-Rooms
-Publicly available rooms to solve as well as practice on THM. 
 
-Intro Rooms:
+- Intro Rooms:
 
     https://tryhackme.com/room/hello
     https://tryhackme.com/room/howtousetryhackme
@@ -17,7 +15,7 @@ Intro Rooms:
     https://tryhackme.com/room/introtoresearch
 
 
-Basics Rooms:
+- Basics Rooms:
 
     https://tryhackme.com/room/linuxmodules
     https://tryhackme.com/room/linuxfundamentalspart1
