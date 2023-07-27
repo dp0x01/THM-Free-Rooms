@@ -203,10 +203,16 @@ Windows:
 
 Active Directory:
 
+    https://tryhackme.com/room/winadbasics
+    https://tryhackme.com/room/adenumeration
+    https://tryhackme.com/room/breachingad
     https://tryhackme.com/room/attacktivedirectory
+    https://tryhackme.com/room/adcertificatetemplates
+    https://tryhackme.com/room/cve202226923
     https://tryhackme.com/room/postexploit
     https://tryhackme.com/room/ustoun
     https://tryhackme.com/room/enterprise
+    https://tryhackme.com/room/activedirectoryhardening
     https://tryhackme.com/room/raz0rblack
 
 
